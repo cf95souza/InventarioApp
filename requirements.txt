@@ -1,0 +1,7 @@
+pandas
+sqlalchemy
+pyodbc
+cx_Oracle
+streamlit
+openpyxl
+python-dotenv

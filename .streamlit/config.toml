@@ -1,0 +1,16 @@
+[theme]
+base = "light"
+primaryColor = "#3182ce"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f8f9fc"
+textColor = "#1a202c"
+font = "sans serif"
+
+[server]
+headless = true
+
+[theme.sidebar]
+# Cores para o sidebar — evita valores vazios que geram erros no frontend
+widgetBackgroundColor = "#ffffff"
+widgetBorderColor = "#e2e8f0"
+skeletonBackgroundColor = "#f0f2f5"
